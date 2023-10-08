@@ -17,6 +17,12 @@ services.AddDbContext<DataContext>(
 
 services.AddControllersWithViews();
 
+//DI life time
+services.AddSingleton<IStudentModel, IStudentModel>();
+services.AddScoped<IStudentModel, StudentModel>();
+services.AddTransient<IStudentModel, IStudentModel>();
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
