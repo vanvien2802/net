@@ -1,31 +1,34 @@
-﻿@model List<Student>
+﻿@model List<Student>;
 @{
     ViewData["Title"] = "Student Page";
-    var students = ViewBag.StudentList as List<Student>;
-        @* var students = Model; *@
+    @* var students = ViewData["StudentList"] as List<Student>; *@
+    var studentss = Model;
 }
 
 <div class="text-center">
     <h1 class="display-4">Welcome Student Page</h1>
-    <table>
+    <Table class="table table-hover">
         <thead>
             <th>Id</th>
             <th>Name</th>
             <th>Age</th>
             <th>Address</th>
-            <th>Options</th>
+            <th>
+                <a href="/student/add" class="btn btn-primary">Add</a>
+            </th>
         </thead>
         <tbody>
-            @foreach (var student in students)
+            @foreach(var student in studentss)
             {
-                <tr>
-                    <td>@student.Id</td>
-                    <td>@student.Name</td>
-                    <td>@student.Age</td>
-                    <td>@student.Address</td>
-                    <td>Options</td>
-                </tr>
+            <tr>
+                <td>@student.Id</td>
+                <td>@student.Name</td>
+                <td>@student.Age</td>
+                <td>@student.Address</td>
+                <td>Option</td>
+            </tr>
             }
+            
         </tbody>
-    </table>
+    </Table>
 </div>

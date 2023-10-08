@@ -28,3 +28,15 @@ F:\LearnDUT\Year4\KTHDV\new project\StudentMVC\obj\Debug\net7.0\refint\StudentMV
 F:\LearnDUT\Year4\KTHDV\new project\StudentMVC\obj\Debug\net7.0\StudentMVC.pdb
 F:\LearnDUT\Year4\KTHDV\new project\StudentMVC\obj\Debug\net7.0\StudentMVC.genruntimeconfig.cache
 F:\LearnDUT\Year4\KTHDV\new project\StudentMVC\obj\Debug\net7.0\ref\StudentMVC.dll
+F:\LearnDUT\Year4\KTHDV\new project\StudentMVC\bin\Debug\net7.0\Humanizer.dll
+F:\LearnDUT\Year4\KTHDV\new project\StudentMVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\LearnDUT\Year4\KTHDV\new project\StudentMVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\LearnDUT\Year4\KTHDV\new project\StudentMVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\LearnDUT\Year4\KTHDV\new project\StudentMVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\LearnDUT\Year4\KTHDV\new project\StudentMVC\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\LearnDUT\Year4\KTHDV\new project\StudentMVC\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\LearnDUT\Year4\KTHDV\new project\StudentMVC\bin\Debug\net7.0\MySqlConnector.dll
+F:\LearnDUT\Year4\KTHDV\new project\StudentMVC\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+F:\LearnDUT\Year4\KTHDV\new project\StudentMVC\bin\Debug\net7.0\System.CodeDom.dll
+F:\LearnDUT\Year4\KTHDV\new project\StudentMVC\obj\Debug\net7.0\StudentMVC.csproj.AssemblyReference.cache
+F:\LearnDUT\Year4\KTHDV\new project\StudentMVC\obj\Debug\net7.0\StudentMVC.csproj.CopyComplete

@@ -1,0 +1,21 @@
+@{
+    ViewData["Title"] = "Add Students Page";
+}
+
+<h1>New Students</h1>
+
+<form method="post" action="/student/save">
+  <div class="mb-3">
+    <label for="name" class="form-label">Email address</label>
+    <input type="text" class="form-control" name="name">
+  </div>
+  <div class="mb-3">
+    <label for="age" class="form-label">Age</label>
+    <input type="number" class="form-control" name="age">
+  </div>
+  <div class="mb-3">
+    <label type="address" class="form-label">Address</label>
+    <input type="text" class="form-control" name="address">
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
