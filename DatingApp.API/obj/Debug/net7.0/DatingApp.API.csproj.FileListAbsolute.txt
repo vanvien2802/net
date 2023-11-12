@@ -50,8 +50,4 @@ F:\LearnDUT\DatingApp\DatingApp.API\obj\Debug\net7.0\refint\DatingApp.API.dll
 F:\LearnDUT\DatingApp\DatingApp.API\obj\Debug\net7.0\DatingApp.API.pdb
 F:\LearnDUT\DatingApp\DatingApp.API\obj\Debug\net7.0\DatingApp.API.genruntimeconfig.cache
 F:\LearnDUT\DatingApp\DatingApp.API\obj\Debug\net7.0\ref\DatingApp.API.dll
-F:\LearnDUT\DatingApp\DatingApp.API\bin\Debug\net7.0\nuxt-app\package-lock.json
-F:\LearnDUT\DatingApp\DatingApp.API\bin\Debug\net7.0\nuxt-app\package.json
-F:\LearnDUT\DatingApp\DatingApp.API\bin\Debug\net7.0\nuxt-app\server\tsconfig.json
-F:\LearnDUT\DatingApp\DatingApp.API\bin\Debug\net7.0\nuxt-app\tsconfig.json
 F:\LearnDUT\DatingApp\DatingApp.API\bin\Debug\net7.0\package-lock.json
